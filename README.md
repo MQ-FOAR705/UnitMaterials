@@ -1,5 +1,6 @@
-# UnitMaterials
-All organising materials for Macquarie University's Digital Humanitites unit. Unit FOAR705.
+# Macquarie University's FOAR705 Unit Materials
+
+All organising materials for Macquarie University's Digital Humanitites unit. This will contain the unit guide, assignments, readings, and everything else needed to take the unit. 
 
 
 Organising intent (Rainbows End, Vernor Vinge):
