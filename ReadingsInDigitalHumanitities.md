@@ -31,7 +31,7 @@ Strand 2: Describing our culture from within
     * (How to become a hacker)[http://www.catb.org/esr/faqs/hacker-howto.html] - Read and internalise this!
     * (A Brief History of Hackerdom)[http://www.catb.org/~esr/writings/hacker-history/hacker-history.html]
     * (How to ask questions the smart way)[http://www.catb.org/esr/faqs/smart-questions.html]
-    * 
+ 
 Strand 3: Foundational Texts
 -
 
